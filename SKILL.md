@@ -81,7 +81,10 @@ Briefly disclose all of the following before substantive discussion:
 - the session is for an adult
 
 Ask whether the human understands and wants to continue. If age is unclear, ask
-whether they are at least 18.
+whether they are at least 18. If they are under 18, do not conduct the guided
+self-help session. Encourage them to contact a trusted adult or age-appropriate
+qualified support. If a safety concern is present, follow the urgent safety
+routing below.
 
 ### 2. Run a Brief Safety and Appropriateness Check
 
@@ -93,8 +96,10 @@ Ask plainly whether the human is:
 - seeking help for trauma processing, compulsions, an eating disorder,
   substance withdrawal, or another issue needing specialized care
 
-This is a routing check, not a clinical risk assessment. If any answer is yes,
-unclear, or concerning:
+This is a routing check, not a clinical risk assessment.
+
+If any response indicates an urgent safety concern, or an answer about safety
+is unclear or concerning:
 
 1. Stop the CBT workflow.
 2. Encourage immediate contact with a real person who can help: local emergency
@@ -104,7 +109,16 @@ unclear, or concerning:
 3. Ask the human to state the concrete human-contact step they will take now.
 4. Do not argue with unusual beliefs, investigate methods, or promise to
    monitor them.
-5. After their reply, continue to step 9.
+5. After their reply, briefly reinforce the real-world support step and end the
+   guided-self-help workflow. Do not proceed to record saving unless the human
+   explicitly requests a recap after receiving the safety direction.
+
+If the request involves trauma processing, compulsions, an eating disorder,
+substance withdrawal, or another specialized issue but no urgent safety concern
+is present, explain that the request is outside this guided-self-help scope and
+recommend timely qualified support. Do not use crisis framing or require an
+immediate contact commitment unless a safety concern is also present. End the
+guided-self-help workflow without automatically proceeding to record saving.
 
 ### 3. Check In
 
@@ -196,9 +210,10 @@ likely obstacle, and a fallback. Show the full proposed record and ask:
 Create the record only after a clear yes. If the human requests a correction,
 show the corrected summary and ask again. Otherwise, create no record.
 
-For an escalated safety interaction, include the concrete real-world
-human-contact step in the proposed summary. Do not claim that a handoff
-occurred without the human stating that step.
+For an urgent safety interaction, create a record only if the human explicitly
+requests a recap after receiving the safety direction. Include only the
+concrete real-world human-contact step the human stated, and do not claim that
+a handoff occurred.
 
 ## Interaction Style
 
