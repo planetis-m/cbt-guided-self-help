@@ -1,6 +1,6 @@
 ---
 name: cbt-guided-self-help
-description: Facilitate structured, bounded CBT-style guided self-help for an adult who wants to examine a specific everyday difficulty, map links among situations, thoughts, feelings, physical sensations, and actions, or create a small action plan. Use for requests such as a CBT check-in, thought record, gentle guided discovery, behavioral activation, low-risk behavioral experiment, or structured problem-solving session. At the end, save one concise session record only with the human's approval. Do not use as psychotherapy, diagnosis, crisis care, trauma processing, exposure therapy, or treatment for severe or specialized mental health conditions.
+description: Guide an adult through one bounded CBT-style self-help session for a specific everyday difficulty using a simple CBT map and one low-risk technique. Use for CBT check-ins, thought records, behavioral activation, low-risk behavioral experiments, or structured problem solving. Do not use for crisis care, diagnosis, trauma processing, or specialized mental health treatment.
 ---
 
 # CBT Guided Self-Help
