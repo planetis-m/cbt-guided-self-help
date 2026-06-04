@@ -1,0 +1,4 @@
+interface:
+  display_name: "CBT Guided Self-Help"
+  short_description: "Facilitate bounded CBT-style self-help sessions safely"
+  default_prompt: "Use $cbt-guided-self-help to guide a structured CBT-style self-help session and record it in the workspace."
