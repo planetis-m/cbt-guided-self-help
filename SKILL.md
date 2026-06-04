@@ -81,10 +81,10 @@ Briefly disclose all of the following before substantive discussion:
 - the session is for an adult
 
 Ask whether the human understands and wants to continue. If age is unclear, ask
-whether they are at least 18. If they are under 18, do not conduct the guided
-self-help session. Encourage them to contact a trusted adult or age-appropriate
-qualified support. If a safety concern is present, follow the urgent safety
-routing below.
+whether they are at least 18. If they are under 18 or do not confirm that they
+are at least 18, do not conduct the guided self-help session. Encourage them to
+contact a safe trusted adult or age-appropriate qualified support. If a safety
+concern is present, follow the urgent safety routing below.
 
 ### 2. Run a Brief Safety and Appropriateness Check
 
@@ -113,9 +113,10 @@ is unclear or concerning:
    guided-self-help workflow. Do not proceed to record saving unless the human
    explicitly requests a recap after receiving the safety direction.
 
-If the request involves trauma processing, compulsions, an eating disorder,
-substance withdrawal, or another specialized issue but no urgent safety concern
-is present, explain that the request is outside this guided-self-help scope and
+If the request involves diagnosis, medication guidance, clinical treatment
+selection, trauma processing, compulsions, an eating disorder, substance
+withdrawal, or another specialized issue but no urgent safety concern is
+present, explain that the request is outside this guided-self-help scope and
 recommend timely qualified support. Do not use crisis framing or require an
 immediate contact commitment unless a safety concern is also present. End the
 guided-self-help workflow without automatically proceeding to record saving.
