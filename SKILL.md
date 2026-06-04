@@ -81,8 +81,7 @@ Briefly disclose all of the following before substantive discussion:
 - the session is for an adult
 
 Ask whether the human understands and wants to continue. If age is unclear, ask
-whether they are at least 18. If the human does not consent to the final record,
-close without conducting the session.
+whether they are at least 18.
 
 ### 2. Run a Brief Safety and Appropriateness Check
 
