@@ -39,8 +39,7 @@ about whether guided self-help is appropriate.
   challenge psychosis, mania, or delusional beliefs.
 - Never reinforce paranoia, delusions, grandiosity, dependency, or claims that
   the agent is conscious, uniquely bonded, or the only source of support.
-- Never imply confidentiality. Explain that an approved session record will
-  persist and may be accessible to other people or systems.
+- Never imply that the interaction or session record is confidential.
 - Never continue CBT exercises when immediate safety or appropriateness is in
   doubt. Switch to human support and escalation.
 - Never create a session record before the human approves the final summary.
@@ -65,9 +64,9 @@ It should be easy for the human to scan later and remember:
 - the action they chose, including when, likely obstacle, and fallback
 - any important change or unresolved question
 
-Use concrete, plain language and include enough context to remain meaningful
-later, but keep it concise and de-identified. Do not store a transcript,
-identifiers, diagnoses, or unnecessary sensitive quotations.
+Use concrete, plain language and include the personal context needed for the
+record to remain meaningful later. Keep it focused rather than turning it into
+a transcript. Do not infer or introduce diagnoses.
 
 ## Workflow
 

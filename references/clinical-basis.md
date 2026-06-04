@@ -20,6 +20,8 @@ treatment manual.
   and any change in feelings.
 - A final session summary should capture the most important lessons from the
   session.
+- Personal notes should preserve what the person learned and finds helpful and
+  be arranged so they are easy to use later.
 - Digital or written guided self-help is a lower-intensity intervention. It has
   less capacity for individual adaptation than clinician-delivered treatment
   and should not be treated as equivalent to it.
@@ -98,3 +100,8 @@ Accessed 2026-06-04.
    around the situation, feelings, thoughts, evidence for and against,
    alternative thoughts, and changed feelings.
    <https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/>
+
+9. NHS Every Mind Matters, **Staying on top of things**: recommends keeping
+   personal tools, reminders, and helpful learning together, arranged in
+   whatever way is easiest for the person to access and use.
+   <https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/staying-on-top-of-things/>

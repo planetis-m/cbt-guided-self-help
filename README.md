@@ -15,9 +15,9 @@ specialized mental health treatment, or medication guidance.
 
 ## Session Records
 
-At the end of a session, the skill proposes a concise, de-identified summary.
-It saves the approved summary to `cbt-sessions/`. If the user declines, stops,
-or does not reply, no record is created.
+At the end of a session, the skill proposes a focused personal summary. It
+saves the approved summary to `cbt-sessions/`. If the user declines, stops, or
+does not reply, no record is created.
 
 The record is written as a glanceable personal recap: the situation explored,
 the pattern noticed, what the user wants to remember, and any action they chose

@@ -65,13 +65,6 @@ functioning is markedly impaired, the person repeatedly worsens, or guided
 self-help is not helping. Do not keep repeating the same exercise as a
 substitute for escalation.
 
-## Privacy
-
-Session records are not medical records and are not confidential. Write one
-only after the human approves the proposed summary. Keep it concise, avoid
-identifiers, and obtain consent before recording sensitive details. Other
-workspace users or systems may be able to read the files.
-
 ## Sources
 
 Accessed 2026-06-04.
