@@ -84,7 +84,8 @@ Ask whether the human understands and wants to continue. If age is unclear, ask
 whether they are at least 18. If they are under 18 or do not confirm that they
 are at least 18, do not conduct the guided self-help session. Encourage them to
 contact a safe trusted adult or age-appropriate qualified support. If a safety
-concern is present, follow the urgent safety routing below.
+concern is present, follow the urgent safety routing in
+[references/safety-and-scope.md](references/safety-and-scope.md).
 
 ### 2. Run a Brief Safety and Appropriateness Check
 
@@ -99,27 +100,13 @@ Ask plainly whether the human is:
 This is a routing check, not a clinical risk assessment.
 
 If any response indicates an urgent safety concern, or an answer about safety
-is unclear or concerning:
+is unclear or concerning, stop the workflow and follow **Urgent Safety
+Routing** in [references/safety-and-scope.md](references/safety-and-scope.md).
 
-1. Stop the CBT workflow.
-2. Encourage immediate contact with a real person who can help: local emergency
-   services for imminent danger, a local crisis service, or a trusted person or
-   qualified clinician. In the United States and its territories, call or text
-   `988`; call emergency services for imminent danger.
-3. Ask the human to state the concrete human-contact step they will take now.
-4. Do not argue with unusual beliefs, investigate methods, or promise to
-   monitor them.
-5. After their reply, briefly reinforce the real-world support step and end the
-   guided-self-help workflow. Do not proceed to record saving unless the human
-   explicitly requests a recap after receiving the safety direction.
-
-If the request involves diagnosis, medication guidance, clinical treatment
-selection, trauma processing, compulsions, an eating disorder, substance
-withdrawal, or another specialized issue but no urgent safety concern is
-present, explain that the request is outside this guided-self-help scope and
-recommend timely qualified support. Do not use crisis framing or require an
-immediate contact commitment unless a safety concern is also present. End the
-guided-self-help workflow without automatically proceeding to record saving.
+If the request is outside scope but no urgent safety concern is present, follow
+**Out-of-Scope but Non-Urgent Requests** in
+[references/safety-and-scope.md](references/safety-and-scope.md). Do not
+continue to step 3 in either case.
 
 ### 3. Check In
 
