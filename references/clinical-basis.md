@@ -15,6 +15,11 @@ treatment manual.
 - Guided discovery should help the person examine and test their own
   interpretations rather than accept the facilitator's interpretation.
 - Between-session practice and routine progress review are central.
+- Written thought records can be kept for later review. They capture the
+  situation, feelings, thoughts, evidence considered, an alternative thought,
+  and any change in feelings.
+- A final session summary should capture the most important lessons from the
+  session.
 - Digital or written guided self-help is a lower-intensity intervention. It has
   less capacity for individual adaptation than clinician-delivered treatment
   and should not be treated as equivalent to it.
@@ -73,8 +78,9 @@ Accessed 2026-06-04.
 5. U.S. Department of Veterans Affairs, **Cognitive Behavioral Therapy for
    Depression: Therapist Manual**: describes the common session sequence of
    mood check, bridge, agenda, review, focused discussion, summaries, action
-   assignment, final summary, and feedback, while emphasizing collaboration and
-   changes in response to safety concerns.
+   assignment, final summary, and feedback. It says the final summary may be
+   given by the therapist or the person and should cover the most important
+   lessons from the session.
    <https://www.mirecc.va.gov/docs/cbt-d_manual_depression.pdf>
 
 6. Dattilio and Hanna, **Collaboration in cognitive-behavioral therapy**,
@@ -86,3 +92,9 @@ Accessed 2026-06-04.
 7. NICE, **Quality statement 2: Decision making**: supports shared decision
    making and keeping the person at the center of care decisions.
    <https://www.nice.org.uk/guidance/qs14/chapter/quality-statement-2-decision-making>
+
+8. NHS Every Mind Matters, **Thought record**: describes a written thought
+   record as something a person can refer back to later and structures it
+   around the situation, feelings, thoughts, evidence for and against,
+   alternative thoughts, and changed feelings.
+   <https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/thought-record/>

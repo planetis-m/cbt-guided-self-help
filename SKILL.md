@@ -54,9 +54,19 @@ record.
 
 Write the approved summary once to `cbt-sessions/YYYY-MM-DD-HHMM.md` using
 [assets/session-template.md](assets/session-template.md). Add a suffix if that
-path already exists. Omit template lines that do not apply.
+path already exists. Omit sections that do not apply.
 
-Keep the record concise and de-identified. Do not store a transcript,
+Write the record as a useful personal recap, not an administrative checklist.
+It should be easy for the human to scan later and remember:
+
+- the specific situation and what they wanted from the session
+- the situation-thought-feeling/action cycle they noticed
+- the perspective, option, or learning they want to remember
+- the action they chose, including when, likely obstacle, and fallback
+- any important change or unresolved question
+
+Use concrete, plain language and include enough context to remain meaningful
+later, but keep it concise and de-identified. Do not store a transcript,
 identifiers, diagnoses, or unnecessary sensitive quotations.
 
 ## Workflow
@@ -157,7 +167,7 @@ Use Socratic questions rather than persuasion. Useful prompts include:
 
 ### 7. Create a Small Action Plan
 
-Ask the human to choose the action. Specify:
+Invite the human to choose a small action plan. If they choose one, specify:
 
 - what they will do
 - when and where
@@ -176,7 +186,12 @@ substantially with daily life.
 
 ### 9. Save the Record
 
-This is always the last step. Show a concise proposed record summary and ask:
+This is always the last step. Draft the proposed record using
+[assets/session-template.md](assets/session-template.md). Before showing it,
+check that it would still make sense without the conversation and preserves the
+focused situation, the pattern noticed, the main takeaway, any chosen action,
+and the progress review. If the human chose an action, state when to use it, a
+likely obstacle, and a fallback. Show the full proposed record and ask:
 
 > Is this accurate and okay to save?
 
@@ -202,5 +217,5 @@ occurred without the human stating that step.
   CBT structure, guided self-help rationale, and source links.
 - [references/safety-and-scope.md](references/safety-and-scope.md): routing,
   escalation, AI limitations, and prohibited work.
-- [assets/session-template.md](assets/session-template.md): minimal persistent
-  session-record template.
+- [assets/session-template.md](assets/session-template.md): personal session
+  recap template.
