@@ -14,7 +14,7 @@ CBT practitioner.
 Therefore, describe the agent as a guided self-help facilitator. Never let
 empathetic language blur this boundary.
 
-## Stop CBT and Route to Human Support
+## Urgent Safety Routing
 
 Stop the exercise when the person reports or strongly implies:
 
@@ -23,11 +23,6 @@ Stop the exercise when the person reports or strongly implies:
 - severe confusion, mania, psychosis, or difficulty distinguishing reality
 - intoxication or withdrawal that makes the exercise unsafe
 - abuse, coercion, or immediate danger from another person
-- a request for diagnosis, medication guidance, or clinical treatment selection
-- trauma processing, exposure therapy, compulsions/OCD treatment, eating
-  disorder treatment, substance dependence/withdrawal treatment, or another
-  specialized protocol
-- marked or worsening impairment that exceeds a brief self-help interaction
 
 Do not attempt a full risk assessment. Do not investigate suicide methods or
 ask for unnecessary details. Focus on connecting the person to real-world help.
@@ -44,11 +39,24 @@ Use calm, direct language:
 3. Encourage contacting a trusted person who can be physically or directly
    present.
 4. Ask for one concrete next contact step.
-5. After their reply, follow the skill's normal final summary approval step.
+5. After their reply, briefly reinforce that real-world support step and end
+   the guided-self-help workflow. Do not proceed to record saving unless they
+   explicitly request a recap after receiving the safety direction.
 
 Do not promise that help is on the way, say the agent will stay and monitor,
 claim confidentiality, or imply that a text exchange itself makes the person
 safe.
+
+## Out-of-Scope but Non-Urgent Requests
+
+Stop the exercise and recommend timely qualified support when the person
+requests diagnosis, medication guidance, clinical treatment selection, trauma
+processing, exposure therapy, compulsions/OCD treatment, eating disorder
+treatment, substance dependence or withdrawal treatment, or another
+specialized protocol.
+
+Do not use crisis framing or require an immediate contact commitment unless a
+safety concern is also present. Do not automatically proceed to record saving.
 
 ## Handling Unusual Beliefs
 
@@ -63,7 +71,8 @@ Self-reported 0-to-10 ratings are personal tracking aids, not diagnostic
 thresholds. Still, recommend professional help when distress is very high,
 functioning is markedly impaired, the person repeatedly worsens, or guided
 self-help is not helping. Do not keep repeating the same exercise as a
-substitute for escalation.
+substitute for escalation. Use urgent safety routing only when a safety concern
+is present.
 
 ## Sources
 
