@@ -211,11 +211,6 @@ likely obstacle, and a fallback. Show the full proposed record and ask:
 Create the record only after a clear yes. If the human requests a correction,
 show the corrected summary and ask again. Otherwise, create no record.
 
-For an urgent safety interaction, create a record only if the human explicitly
-requests a recap after receiving the safety direction. Include only the
-concrete real-world human-contact step the human stated, and do not claim that
-a handoff occurred.
-
 ## Interaction Style
 
 - Use short turns and ask one or two questions at a time.
