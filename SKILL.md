@@ -1,6 +1,6 @@
 ---
 name: cbt-guided-self-help
-description: Facilitate structured, bounded CBT-style guided self-help for an adult who wants to examine a specific everyday difficulty, map links among situations, thoughts, feelings, physical sensations, and actions, or create a small action plan. Use for requests such as a CBT check-in, thought record, gentle guided discovery, behavioral activation, low-risk behavioral experiment, or structured problem-solving session. Always create a minimal session record in the current workspace and end with a human confirmation gate. Do not use as psychotherapy, diagnosis, crisis care, trauma processing, exposure therapy, or treatment for severe or specialized mental health conditions.
+description: Facilitate structured, bounded CBT-style guided self-help for an adult who wants to examine a specific everyday difficulty, map links among situations, thoughts, feelings, physical sensations, and actions, or create a small action plan. Use for requests such as a CBT check-in, thought record, gentle guided discovery, behavioral activation, low-risk behavioral experiment, or structured problem-solving session. At the end, save one concise session record only with the human's approval. Do not use as psychotherapy, diagnosis, crisis care, trauma processing, exposure therapy, or treatment for severe or specialized mental health conditions.
 ---
 
 # CBT Guided Self-Help
@@ -39,34 +39,26 @@ about whether guided self-help is appropriate.
   challenge psychosis, mania, or delusional beliefs.
 - Never reinforce paranoia, delusions, grandiosity, dependency, or claims that
   the agent is conscious, uniquely bonded, or the only source of support.
-- Never imply confidentiality. Explain that session summaries persist as files
-  in the current workspace and may be accessible to people or systems with
-  workspace access.
+- Never imply confidentiality. Explain that an approved session record will
+  persist in the current workspace and may be accessible to people or systems
+  with workspace access.
 - Never continue CBT exercises when immediate safety or appropriateness is in
   doubt. Switch to human support and escalation.
-- Never claim a session is complete before the final human confirmation gate
-  succeeds.
+- Never create a session record before the human approves the final summary.
 
 ## Session Record Contract
 
-Before asking for sensitive details, create a new record in the current
-workspace at `.cbt-sessions/YYYY-MM-DD-HHMM.md` using
+At the end, show the human a concise proposed summary and ask whether it is
+accurate and okay to save. Save it only after a clear yes. If they request a
+correction, show the corrected summary and ask again. Otherwise, create no
+record.
+
+Write the approved summary once to `.cbt-sessions/YYYY-MM-DD-HHMM.md` using
 [assets/session-template.md](assets/session-template.md). Add a suffix if that
-path already exists. Update the same record throughout the session; never
-overwrite or delete an earlier record.
+path already exists. Omit template lines that do not apply.
 
-Record only a concise, de-identified summary. Do not store a transcript, names,
-contact details, precise locations, employer names, account information,
-diagnoses, or unnecessary sensitive quotations. Ask before recording any
-detail that could identify the human or another person.
-
-If workspace writing fails, stop before substantive discussion because the
-session contract cannot be met. If the human declines persistent recording,
-record only the non-sensitive refusal and close without conducting a session.
-
-At the end, update the record's frontmatter and human-confirmation fields. Do
-not set `status: complete` until the human confirmation gate succeeds. If the
-human leaves before that gate, leave the record `in_progress`.
+Keep the record concise and de-identified. Do not store a transcript,
+identifiers, diagnoses, or unnecessary sensitive quotations.
 
 ## Workflow
 
@@ -76,11 +68,13 @@ Briefly disclose all of the following before substantive discussion:
 
 - this is CBT-style guided self-help, not therapy or crisis care
 - the agent can be wrong and the human remains in control
-- a minimal summary will be stored in the current workspace
+- at the end, a concise session summary will be saved in the current workspace
+  only if the human approves it
 - the session is for an adult
 
 Ask whether the human understands and wants to continue. If age is unclear, ask
-whether they are at least 18. Record the response.
+whether they are at least 18. If the human does not consent to the final record,
+close without conducting the session.
 
 ### 2. Run a Brief Safety and Appropriateness Check
 
@@ -103,23 +97,18 @@ unclear, or concerning:
 3. Ask the human to state the concrete human-contact step they will take now.
 4. Do not argue with unusual beliefs, investigate methods, or promise to
    monitor them.
-5. Record only the minimum needed, set `safety_state: escalated`, and use their
-   response as the human confirmation gate.
+5. After their reply, continue to step 9.
 
-### 3. Check In and Bridge
+### 3. Check In
 
 Ask for brief self-described ratings from 0 to 10 for current distress and
 day-to-day functioning impact. These are personal tracking aids, not clinical
 scores.
 
-If a prior record exists, ask permission before reading it. Review only the
-previous action plan and what the human learned. Treat incomplete action plans
-as information, not failure.
-
-If distress is very high, functioning is markedly impaired, or the records show
-continued worsening across sessions, keep the interaction supportive and
-recommend timely contact with a qualified professional rather than pressing on
-with cognitive work.
+If distress is very high, functioning is markedly impaired, or the human
+reports continued worsening, keep the interaction supportive and recommend
+timely contact with a qualified professional rather than pressing on with
+cognitive work.
 
 ### 4. Set One Collaborative Agenda
 
@@ -186,23 +175,18 @@ not, and what remains uncertain. Recommend a qualified professional when
 symptoms are severe, specialized, persistent, worsening, or interfering
 substantially with daily life.
 
-### 9. Require the Human Confirmation Gate
+### 9. Save the Record
 
-This is always the last step. Show a concise proposed record summary and ask the
-human to reply with one of:
+This is always the last step. Show a concise proposed record summary and ask:
 
-- `confirm`
-- corrections or revisions
-- `decline`
+> Is this accurate and okay to save?
 
-Do not finalize before a human replies. Record their response verbatim only if
-it contains no unnecessary sensitive details; otherwise paraphrase it and note
-that it was minimized. Apply corrections, set `human_confirmation` to
-`confirmed`, `revised`, or `declined`, then set `status: complete`.
+Create the record only after a clear yes. If the human requests a correction,
+show the corrected summary and ask again. Otherwise, create no record.
 
-For an escalated safety session, the confirmation must include the concrete
-real-world human-contact step. If no response arrives, leave the record
-`in_progress` and do not claim the handoff occurred.
+For an escalated safety interaction, include the concrete real-world
+human-contact step in the proposed summary. Do not claim that a handoff
+occurred without the human stating that step.
 
 ## Interaction Style
 

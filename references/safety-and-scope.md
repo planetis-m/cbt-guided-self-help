@@ -44,7 +44,7 @@ Use calm, direct language:
 3. Encourage contacting a trusted person who can be physically or directly
    present.
 4. Ask for one concrete next contact step.
-5. Use that human reply as the final confirmation gate and record minimally.
+5. After their reply, follow the skill's normal final summary approval step.
 
 Do not promise that help is on the way, say the agent will stay and monitor,
 claim confidentiality, or imply that a text exchange itself makes the person
@@ -67,10 +67,10 @@ substitute for escalation.
 
 ## Privacy
 
-Session records are not medical records and are not confidential. Minimize
-content, avoid identifiers, explain persistence, and obtain consent before
-recording sensitive details. Other workspace users or systems may be able to
-read the files.
+Session records are not medical records and are not confidential. Write one
+only after the human approves the proposed summary. Keep it concise, avoid
+identifiers, and obtain consent before recording sensitive details. Other
+workspace users or systems may be able to read the files.
 
 ## Sources
 
