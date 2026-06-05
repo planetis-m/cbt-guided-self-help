@@ -68,6 +68,10 @@ Use concrete, plain language and include the personal context needed for the
 record to remain meaningful later. Keep it focused rather than turning it into
 a transcript. Do not infer or introduce diagnoses.
 
+When recording a balanced or alternative thought, use the human's own wording
+as much as possible. If the agent proposes wording, label it as a draft and ask
+the human to revise or approve it before saving.
+
 ## Workflow
 
 ### 1. Establish Scope and Consent
@@ -191,6 +195,11 @@ Ask again for distress and functioning impact. Summarize what changed, what did
 not, and what remains uncertain. Recommend a qualified professional when
 symptoms are severe, specialized, persistent, worsening, or interfering
 substantially with daily life.
+
+Keep current session distress and functioning ratings separate from ratings
+about the recalled or target situation. In the review and record, label which
+rating changed. Do not describe an in-situation emotion shift as a change in
+current distress.
 
 ### 9. Save the Record
 
