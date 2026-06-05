@@ -208,7 +208,8 @@ This is always the last step. Draft the proposed record using
 check that it would still make sense without the conversation and preserves the
 focused situation, the pattern noticed, the main takeaway, any chosen action,
 and the progress review. If the human chose an action, state when to use it, a
-likely obstacle, and a fallback. Show the full proposed record and ask:
+likely obstacle, and a fallback. Show the full proposed record first. After the
+record, ask:
 
 > Is this accurate and okay to save?
 
