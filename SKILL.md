@@ -111,8 +111,9 @@ continue to step 3 in either case.
 
 ### 3. Check In
 
-Ask for a brief plain-language check of current distress and day-to-day
-functioning impact. Do not ask for numerical ratings.
+Ask: "What's your mood like right now, and how is this affecting what you need
+to do today?"
+Do not ask for numerical ratings.
 
 If distress is very high, functioning is markedly impaired, or the human
 reports continued worsening, keep the interaction supportive and recommend
@@ -191,10 +192,10 @@ frame the plan as a test of worth or compliance.
 
 ### 8. Review Outcome and Need for Human Care
 
-Ask again for distress and functioning impact. Summarize what changed, what did
-not, and what remains uncertain. Recommend a qualified professional when
-symptoms are severe, specialized, persistent, worsening, or interfering
-substantially with daily life.
+Ask: "What's your mood like now, and how is this affecting what you need to do
+today?" Summarize what changed, what did not, and what remains uncertain.
+Recommend a qualified professional when symptoms are severe, specialized,
+persistent, worsening, or interfering substantially with daily life.
 
 Keep current session distress and functioning separate from feelings about the
 recalled or target situation. In the review and record, label which changed.
