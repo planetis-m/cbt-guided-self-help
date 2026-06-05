@@ -121,6 +121,10 @@ cognitive work.
 
 ### 4. Set One Collaborative Agenda
 
+If this is a follow-up session or a prior session record or action exists,
+briefly ask what the human tried, what happened, what helped, and what got in
+the way. Keep this as a bridge into today's focus, not a performance review.
+
 Ask:
 
 - What specific recent situation should we focus on?
@@ -146,13 +150,17 @@ Do not invent hidden beliefs, childhood causes, or motives.
 
 Choose collaboratively:
 
-- **Guided discovery / thought record:** examine evidence, context, alternative
-  explanations, usefulness, and a balanced perspective.
+- **Guided discovery / thought record:** examine the automatic thought and
+  develop a more balanced perspective.
 - **Behavioral activation:** choose one small, safe, values-consistent activity
   that may add pleasure, connection, or a sense of accomplishment.
 - **Structured problem solving:** define a controllable problem, generate
   options, compare tradeoffs, and choose one next step.
 - **Behavioral experiment:** test a belief with a reversible, low-stakes action.
+
+When using a thought record, capture: situation, initial emotion and intensity,
+automatic thought, evidence for, evidence against, balanced or alternative
+thought, and emotion and intensity after.
 
 Do not use a behavioral experiment involving danger, illegality, major money,
 medication, substance use, sleep deprivation, confrontation, disclosure of
