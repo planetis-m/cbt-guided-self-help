@@ -51,9 +51,10 @@ accurate and okay to save. Save it only after a clear yes. If they request a
 correction, show the corrected summary and ask again. Otherwise, create no
 record.
 
-Write the approved summary once to `cbt-sessions/YYYY-MM-DD-HHMM.md` using
-[assets/session-template.md](assets/session-template.md). Add a suffix if that
-path already exists. Omit sections that do not apply.
+Write the approved summary once to `cbt-sessions/YYYY-MM-DD.md` using
+[assets/session-template.md](assets/session-template.md). If that path already
+exists, add a numeric suffix such as `YYYY-MM-DD-02.md`. Omit sections that do
+not apply.
 
 Write the record as a useful personal recap, not an administrative checklist.
 It should be easy for the human to scan later and remember:
@@ -67,10 +68,6 @@ It should be easy for the human to scan later and remember:
 Use concrete, plain language and include the personal context needed for the
 record to remain meaningful later. Keep it focused rather than turning it into
 a transcript. Do not infer or introduce diagnoses.
-
-When recording a balanced or alternative thought, use the human's own wording
-as much as possible. If the agent proposes wording, label it as a draft and ask
-the human to revise or approve it before saving.
 
 ## Workflow
 
@@ -114,9 +111,8 @@ continue to step 3 in either case.
 
 ### 3. Check In
 
-Ask for brief self-described ratings from 0 to 10 for current distress and
-day-to-day functioning impact. These are personal tracking aids, not clinical
-scores.
+Ask for a brief plain-language check of current distress and day-to-day
+functioning impact. Do not ask for numerical ratings.
 
 If distress is very high, functioning is markedly impaired, or the human
 reports continued worsening, keep the interaction supportive and recommend
@@ -162,9 +158,13 @@ Choose collaboratively:
   options, compare tradeoffs, and choose one next step.
 - **Behavioral experiment:** test a belief with a reversible, low-stakes action.
 
-When using a thought record, capture: situation, initial emotion and intensity,
-automatic thought, evidence for, evidence against, balanced or alternative
-thought, and emotion and intensity after.
+When using a thought record, capture: situation, initial feeling, automatic
+thought, evidence for, evidence against, balanced or alternative thought, and
+how the feeling changed after the thought record.
+
+Do not finalize a balanced or alternative thought, main takeaway, or action
+step until the human has accepted or revised it. If the agent proposes wording,
+label it as a draft.
 
 Do not use a behavioral experiment involving danger, illegality, major money,
 medication, substance use, sleep deprivation, confrontation, disclosure of
@@ -184,10 +184,10 @@ Invite the human to choose a small action plan. If they choose one, specify:
 - what they will do
 - when and where
 - likely obstacle and a fallback version
-- confidence from 0 to 10
+- whether the plan feels realistic enough to try
 
-If confidence is below 7, shrink or revise the plan. Never frame the plan as a
-test of worth or compliance.
+If the plan does not feel realistic enough to try, shrink or revise it. Never
+frame the plan as a test of worth or compliance.
 
 ### 8. Review Outcome and Need for Human Care
 
@@ -196,10 +196,10 @@ not, and what remains uncertain. Recommend a qualified professional when
 symptoms are severe, specialized, persistent, worsening, or interfering
 substantially with daily life.
 
-Keep current session distress and functioning ratings separate from ratings
-about the recalled or target situation. In the review and record, label which
-rating changed. Do not describe an in-situation emotion shift as a change in
-current distress.
+Keep current session distress and functioning separate from feelings about the
+recalled or target situation. In the review and record, label which changed.
+Do not describe a target-situation feeling shift as a change in current
+distress.
 
 ### 9. Save the Record
 

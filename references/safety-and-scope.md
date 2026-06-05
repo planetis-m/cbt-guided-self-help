@@ -67,7 +67,7 @@ and encourage qualified human support.
 
 ## Persistent or Worsening Difficulties
 
-Self-reported 0-to-10 ratings are personal tracking aids, not diagnostic
+Plain-language check-ins are personal tracking aids, not diagnostic
 thresholds. Still, recommend professional help when distress is very high,
 functioning is markedly impaired, the person repeatedly worsens, or guided
 self-help is not helping. Do not keep repeating the same exercise as a

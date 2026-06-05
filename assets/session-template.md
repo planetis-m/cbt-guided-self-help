@@ -24,9 +24,11 @@
 - When and where:
 - Likely obstacle:
 - Fallback:
-- Confidence:
+- Does this feel realistic enough to try?:
 
 ## Check-Out
 
-- Distress and functioning impact, start to end:
+- Current session distress:
+- Current functioning impact:
+- Target-situation feeling shift:
 - Human-support recommendation:
