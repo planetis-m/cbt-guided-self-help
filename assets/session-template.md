@@ -20,11 +20,14 @@
 
 ## What I Will Try
 
-- Action:
-- When and where:
+- Cue / when to use this:
+- Steps:
+  1.
+  2.
 - Likely obstacle:
-- Fallback:
+- Fallback if I cannot do the full plan:
 - Does this feel realistic enough to try?:
+- Outcome or later note:
 
 ## Check-Out
 

@@ -62,7 +62,8 @@ It should be easy for the human to scan later and remember:
 - the specific situation and what they wanted from the session
 - the situation-thought-feeling/action cycle they noticed
 - the perspective, option, or learning they want to remember
-- the action they chose, including when, likely obstacle, and fallback
+- the action plan as a usable reminder, including cue, steps, likely obstacle,
+  and fallback
 - any important change or unresolved question
 
 Use concrete, plain language and include the personal context needed for the
@@ -182,8 +183,8 @@ Use Socratic questions rather than persuasion. Useful prompts include:
 
 Invite the human to choose a small action plan. If they choose one, specify:
 
-- what they will do
-- when and where
+- cue or situation for using the plan
+- concrete steps
 - likely obstacle and a fallback version
 - whether the plan feels realistic enough to try
 
@@ -208,9 +209,9 @@ distress.
 This is always the last step. Draft the proposed record using
 [assets/session-template.md](assets/session-template.md). Before showing it,
 check that it would still make sense without the conversation and preserves the
-focused situation, the pattern noticed, the main takeaway, any chosen action,
-and the progress review. If the human chose an action, state when to use it, a
-likely obstacle, and a fallback. Show the full proposed record first. After the
+focused situation, the pattern noticed, the main takeaway, any chosen action
+plan, and the progress review. Do not compress a multi-step plan into one line;
+use the template's steps list. Show the full proposed record first. After the
 record, ask:
 
 > Is this accurate and okay to save?
