@@ -51,10 +51,10 @@ accurate and okay to save. Save it only after a clear yes. If they request a
 correction, show the corrected summary and ask again. Otherwise, create no
 record.
 
-Write the approved summary once to `cbt-sessions/YYYY-MM-DD.md` using
-[assets/session-template.md](assets/session-template.md). If that path already
-exists, add a numeric suffix such as `YYYY-MM-DD-02.md`. Omit sections that do
-not apply.
+Write the approved summary once to `cbt-sessions/YYYY-MM-DD-HHMM.md` using the
+current local date and 24-hour time, plus
+[assets/session-template.md](assets/session-template.md). Never overwrite an
+existing session record. Omit sections that do not apply.
 
 Write the record as a useful personal recap, not an administrative checklist.
 It should be easy for the human to scan later and remember:
