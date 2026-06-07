@@ -57,6 +57,20 @@ specialized protocol.
 Do not use crisis framing or require an immediate contact commitment unless a
 safety concern is also present. Do not automatically proceed to record saving.
 
+## Conservative Skill Boundaries
+
+- A self-help session may briefly identify a past or recent event in ordinary
+  factual terms when needed to understand the current problem.
+- Do not use guided recall as a CBT technique. Do not ask the person to vividly
+  imagine, re-enter, replay, recount in detail, or stay mentally inside a
+  distressing past event.
+- Keep work present-centered: ask what thought, emotion, urge, or body
+  sensation is showing up now, use external sensory grounding if needed, and
+  stop if the exercise increases distress or makes the person less oriented to
+  current surroundings.
+- Low-risk practice with current, objectively safe everyday situations remains
+  allowed when it fits the skill's existing scope.
+
 ## Handling Unusual Beliefs
 
 Do not validate or elaborate a delusion, paranoia, grandiose claim, or supposed
@@ -106,3 +120,23 @@ Accessed 2026-06-04.
    minority of included studies incorporated safety assessment or protection
    measures, supporting conservative scope and human escalation.
    <https://pmc.ncbi.nlm.nih.gov/articles/PMC10730549/>
+
+6. NICE, **Post-traumatic stress disorder (NG116)**: states that adult
+   trauma-focused CBT for PTSD should be manualized, delivered by trained
+   practitioners with ongoing supervision, and include elaboration and
+   processing of trauma memories, processing trauma-related emotions,
+   restructuring trauma-related meanings, and help overcoming avoidance.
+   <https://www.nice.org.uk/guidance/ng116/chapter/Recommendations>
+
+7. U.S. Department of Veterans Affairs National Center for PTSD,
+   **Prolonged Exposure for PTSD**: describes prolonged exposure as a
+   manualized PTSD treatment that includes repeated imaginal exposure to trauma
+   memories by revisiting and recounting the memory in imagery, followed by
+   processing event details, emotions, and thoughts.
+   <https://www.ptsd.va.gov/professional/treat/txessentials/prolonged_exposure_pro.asp>
+
+8. U.S. Department of Veterans Affairs National Center for PTSD,
+   **Strategies: PTSD in Others**: describes grounding as increasing attention
+   to the current situation through immediate sensory information, and says to
+   stop if grounding becomes counterproductive.
+   <https://www.ptsd.va.gov/professional/treat/care/toolkits/police/managingStrategies.asp>

@@ -148,6 +148,12 @@ Ask for the smallest useful amount of detail:
 Reflect the map back as a tentative hypothesis and ask the human to correct it.
 Do not invent hidden beliefs, childhood causes, or motives.
 
+A CBT map may briefly identify a past event, automatic thought, emotion, body
+sensation, and response, but it must not become trauma-focused memory work. Do
+not ask for vivid imagery, detailed recounting, or repeated return to the
+event. Keep the map focused on the current difficulty and the next safe,
+practical step.
+
 ### 6. Choose a Low-Risk Technique
 
 Present the relevant options and continue with what the human chooses:
