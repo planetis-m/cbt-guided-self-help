@@ -70,6 +70,19 @@ safety concern is also present. Do not automatically proceed to record saving.
   current surroundings.
 - Low-risk practice with current, objectively safe everyday situations remains
   allowed when it fits the skill's existing scope.
+- Do not provide treatment for body dysmorphic disorder or BDD-focused exposure
+  and response prevention. If appearance concerns involve persistent
+  preoccupation, mirror checking or avoidance, concealment, skin picking, or
+  substantial impact on daily life, stop the self-help exercise and recommend
+  qualified human support.
+- Do not use self-help exercises to manage ongoing domestic violence, abuse, or
+  coercive control. If abuse or coercion is current or may recur, prioritize
+  immediate safety, qualified human support, and specialist services rather
+  than cognitive reframing, acceptance practice, or interpersonal rehearsal.
+- Do not create, revise, or substitute for a suicide or self-harm safety plan.
+  When suicide or self-harm risk is present, stop the exercise and route to
+  real-world support, existing care plans, trusted people, emergency services,
+  or qualified professionals.
 
 ## Handling Unusual Beliefs
 
@@ -89,7 +102,7 @@ is present.
 
 ## Sources
 
-Accessed 2026-06-04.
+Sources 1-5 accessed 2026-06-04. Sources 6-13 accessed 2026-06-07.
 
 1. World Health Organization, **Ethics and governance of artificial
    intelligence for health: guidance on large multi-modal models**: identifies
@@ -140,3 +153,35 @@ Accessed 2026-06-04.
    to the current situation through immediate sensory information, and says to
    stop if grounding becomes counterproductive.
    <https://www.ptsd.va.gov/professional/treat/care/toolkits/police/managingStrategies.asp>
+
+9. NICE, **Obsessive-compulsive disorder and body dysmorphic disorder:
+   treatment (CG31)**: recommends CBT including exposure and response
+   prevention for adults with BDD, with treatment intensity depending on
+   functional impairment.
+   <https://www.nice.org.uk/guidance/cg31/chapter/Recommendations>
+
+10. NHS, **Body dysmorphic disorder (BDD)**: describes BDD symptoms including
+    appearance preoccupation, mirror checking or avoidance, concealment, skin
+    picking, daily-life impact, and potential links with self-harm or suicidal
+    thoughts; it describes CBT for BDD as usually including exposure and
+    response prevention with a therapist.
+    <https://www.nhs.uk/mental-health/conditions/body-dysmorphia/>
+
+11. NICE, **Domestic violence and abuse: multi-agency working (PH50)**: states
+    that mental health interventions for people who experience domestic
+    violence and abuse should be provided by professionals trained in addressing
+    it and include ongoing risk assessment, collaborative safety planning, and
+    referral to specialist support services.
+    <https://www.nice.org.uk/guidance/ph50/chapter/Recommendations>
+
+12. NICE, **Self-harm: assessment, management and preventing recurrence
+    (NG225)**: describes safety plans for self-harm as collaborative plans that
+    include warning signs, coping strategies, social contacts, professional and
+    emergency contacts, and restricting access to lethal means.
+    <https://www.nice.org.uk/guidance/ng225/chapter/1-recommendations>
+
+13. NICE, **Self-harm: assessment, management and preventing recurrence
+    (NG225), terms used**: defines self-harm as intentional self-poisoning or
+    injury irrespective of apparent purpose and defines safety plans as written,
+    prioritized coping and support plans for crises.
+    <https://www.nice.org.uk/guidance/ng225/chapter/terms-used-in-this-guideline>
