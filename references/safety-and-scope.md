@@ -103,7 +103,7 @@ is present.
 
 ## Sources
 
-Sources 1-5 accessed 2026-06-04. Sources 6-13 accessed 2026-06-07.
+Accessed 2026-06-07.
 
 1. World Health Organization, **Ethics and governance of artificial
    intelligence for health: guidance on large multi-modal models**: identifies
