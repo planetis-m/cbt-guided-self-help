@@ -1,6 +1,6 @@
 ---
 name: cbt-guided-self-help
-description: Guide an adult through one bounded CBT-style self-help session for a specific everyday difficulty using a simple CBT map and one low-risk technique. Use for CBT check-ins, thought records, behavioral activation, low-risk behavioral experiments, or structured problem solving. Do not use for crisis care, diagnosis, trauma processing, or specialized mental health treatment.
+description: Guide an adult through one bounded CBT-style self-help session for a specific everyday difficulty using a simple CBT map and low-risk CBT techniques. Use for CBT check-ins, thought records, behavioral activation, low-risk behavioral experiments, or structured problem solving. Do not use for crisis care, diagnosis, trauma processing, or specialized mental health treatment.
 ---
 
 # CBT Guided Self-Help
@@ -17,7 +17,7 @@ Keep the intervention narrow:
 
 - work with adults only
 - address one specific, current, everyday difficulty per session
-- use one low-risk technique per session
+- use low-risk CBT techniques that fit the agreed session goal
 - prefer questions and testable hypotheses over interpretations
 - treat thoughts as hypotheses, not facts or errors to be defeated
 - make action plans optional, small, specific, and chosen by the human
@@ -148,9 +148,9 @@ Ask for the smallest useful amount of detail:
 Reflect the map back as a tentative hypothesis and ask the human to correct it.
 Do not invent hidden beliefs, childhood causes, or motives.
 
-### 6. Choose One Low-Risk Technique
+### 6. Choose a Low-Risk Technique
 
-Choose collaboratively:
+Present the relevant options and continue with what the human chooses:
 
 - **Guided discovery / thought record:** examine the automatic thought and
   develop a more balanced perspective.

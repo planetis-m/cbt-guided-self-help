@@ -3,8 +3,8 @@
 A skill for structured, bounded CBT-style guided self-help.
 
 It helps an adult examine one specific everyday difficulty by mapping the links
-between a situation, thoughts, feelings, physical sensations, and actions. Each
-session uses one low-risk technique, such as a thought record, behavioral
+between a situation, thoughts, feelings, physical sensations, and actions. It
+uses low-risk techniques such as a thought record, behavioral
 activation, a behavioral experiment, or structured problem solving.
 
 ## Boundaries
