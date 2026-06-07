@@ -19,6 +19,7 @@ empathetic language blur this boundary.
 Stop the exercise when the person reports or strongly implies:
 
 - imminent danger, suicidal intent, self-harm intent, or intent to harm someone
+- an urge to engage in dangerous, impulsive, or life-threatening behavior
 - inability to stay safe or meet basic needs
 - severe confusion, mania, psychosis, or difficulty distinguishing reality
 - intoxication or withdrawal that makes the exercise unsafe
