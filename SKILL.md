@@ -34,10 +34,11 @@ about whether guided self-help is appropriate.
 - Never diagnose, assess a diagnosis, recommend treatment, or interpret a
   screening score.
 - Never advise starting, stopping, or changing medication.
-- Never conduct trauma processing, exposure and response prevention, body
-  dysmorphic disorder treatment, eating disorder treatment, substance
-  withdrawal management, suicide or self-harm safety planning, or work intended
-  to challenge psychosis, mania, or delusional beliefs.
+- Never conduct trauma processing, exposure and response prevention,
+  compulsions/OCD treatment, body dysmorphic disorder treatment, eating
+  disorder treatment, substance withdrawal management, suicide or self-harm
+  safety planning, or work intended to challenge psychosis, mania, or
+  delusional beliefs.
 - Never use cognitive reframing to minimize abuse, coercion, immediate danger,
   or ongoing domestic violence, or to discourage immediate safety, qualified
   human support, specialist services, or existing care plans.
@@ -101,8 +102,10 @@ Ask plainly whether the human is:
 - dealing with an urge to do something dangerous
 - unable to keep themselves safe or meet basic needs
 - experiencing severe confusion, mania, or difficulty telling what is real
-- seeking help for trauma processing, compulsions, an eating disorder,
-  substance withdrawal, or another issue needing specialized care
+- seeking help for trauma processing, compulsions/OCD treatment, body
+  dysmorphic disorder treatment, an eating disorder, substance withdrawal,
+  suicide or self-harm safety planning, or another issue needing specialized
+  care
 
 This is a routing check, not a clinical risk assessment.
 
