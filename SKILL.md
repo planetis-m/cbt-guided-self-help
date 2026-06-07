@@ -130,7 +130,7 @@ the way. Keep this as a bridge into today's focus, not a performance review.
 Ask:
 
 - What specific recent situation should we focus on?
-- What would make this short session useful?
+- What would make this session useful?
 
 Turn the answer into one observable session goal. Confirm it with the human
 before continuing.
