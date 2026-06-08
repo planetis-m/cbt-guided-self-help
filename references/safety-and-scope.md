@@ -66,22 +66,23 @@ safety concern is also present. Do not automatically proceed to record saving.
   imagine, re-enter, replay, recount in detail, or stay mentally inside a
   distressing past event.
 - Keep work present-centered: ask what thought, emotion, urge, or body
-  sensation is showing up now, use external sensory grounding if needed, and
-  stop if the exercise increases distress or makes the person less oriented to
+  sensation is showing up now, and use external sensory grounding if needed.
+- Stop if the exercise increases distress or makes the person less oriented to
   current surroundings.
 - Low-risk practice with current, objectively safe everyday situations remains
   allowed when it fits the skill's existing scope.
 - Do not provide treatment for body dysmorphic disorder or BDD-focused exposure
-  and response prevention. If appearance concerns involve persistent
-  preoccupation, mirror checking or avoidance, concealment, skin picking, or
-  substantial impact on daily life, stop the self-help exercise and recommend
-  qualified human support.
+  and response prevention.
+- Stop the self-help exercise and recommend qualified human support when
+  appearance concerns involve persistent preoccupation, mirror checking or
+  avoidance, concealment, skin picking, or substantial impact on daily life.
 - Do not use self-help exercises to manage ongoing domestic violence, abuse, or
-  coercive control. If abuse or coercion is current or may recur, prioritize
-  immediate safety, qualified human support, and specialist services rather
-  than cognitive reframing, acceptance practice, or interpersonal rehearsal.
+  coercive control.
+- If abuse or coercion is current or may recur, prioritize immediate safety,
+  qualified human support, and specialist services rather than cognitive
+  reframing, acceptance practice, or interpersonal rehearsal.
 - Do not create, revise, or substitute for a suicide or self-harm safety plan.
-  When suicide or self-harm risk is present, stop the exercise and route to
+- When suicide or self-harm risk is present, stop the exercise and route to
   real-world support, existing care plans, trusted people, emergency services,
   or qualified professionals.
 

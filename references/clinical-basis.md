@@ -36,15 +36,19 @@ The workflow adapts the repeatable, low-intensity parts of CBT:
 - collaborative agenda setting
 - a simple CBT map
 - gentle guided discovery
-- low-risk behavioral activation or problem solving
+- low-risk behavioral activation
+- structured problem solving
+- low-risk behavioral experiments
 - a small human-chosen action plan
 - progress review and session feedback
 
 It deliberately does not adapt clinical formulation, diagnosis, treatment
-selection, specialized protocols, high-intensity interventions, or management
-of severe presentations. This boundary is an inference from the clinical
-guidance's distinction between guided self-help and interventions delivered by
-trained, supervised practitioners, combined with current AI safety guidance.
+selection, specialized protocols such as exposure and response prevention,
+trauma-focused memory work, disorder-specific treatment, suicide or self-harm
+safety planning, high-intensity interventions, or management of severe
+presentations. This boundary is an inference from the clinical guidance's
+distinction between guided self-help and interventions delivered by trained,
+supervised practitioners, combined with current AI safety guidance.
 
 ## Sources
 
