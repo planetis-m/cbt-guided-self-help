@@ -61,6 +61,10 @@ current local date and 24-hour time, plus
 [assets/session-template.md](assets/session-template.md). Never overwrite an
 existing session record. Omit sections that do not apply.
 
+Work one angle at a time. If the human wants to pursue multiple angles, finish
+the current angle and offer its record before starting the next. Save each
+completed angle as its own approved record.
+
 Write the record as a useful personal recap, not an administrative checklist.
 It should be easy for the human to scan later and remember:
 
