@@ -116,6 +116,8 @@ Ask this before the exercise:
 >   from doing.
 > - You do not have a safe place to be right now.
 > - You cannot get through the next few hours without immediate help.
+> - Someone is hurting, threatening, controlling, or forcing you, or you do not
+>   feel safe with them.
 > - You are so confused that it is hard to follow this conversation or know
 >   what to do next.
 > - You have much more energy than usual, feel restless, or have needed much
@@ -123,6 +125,8 @@ Ask this before the exercise:
 > - Your thoughts are racing, or you cannot concentrate.
 > - You are seeing or hearing things that other people do not.
 > - People close to you are saying that something you believe is not true.
+> - You have stopped or cut down alcohol or drugs and feel physically unwell
+>   or unsafe.
 > - You want to go through or describe a traumatic memory in detail.
 > - Upsetting thoughts, images, or urges keep coming into your mind and are
 >   getting in the way of daily life.
@@ -134,11 +138,7 @@ Ask this before the exercise:
 > - You are making yourself vomit, taking laxatives, or exercising to make up
 >   for eating.
 > - Worries about food, weight, or body shape feel hard to control.
-> - You have stopped or cut down alcohol or drugs and feel physically unwell
->   or unsafe.
 > - You need help making a plan to stay alive or not hurt yourself.
-> - Someone is hurting, threatening, controlling, or forcing you, or you do not
->   feel safe with them.
 > - This feels bigger than a self-help exercise, and you need a professional or
 >   specialist.
 
