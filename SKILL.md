@@ -109,7 +109,9 @@ Ask this before the exercise:
 >
 > - You might be in immediate danger.
 > - You are having thoughts of killing yourself right now.
-> - You are thinking about harming yourself or someone else.
+> - You have thoughts of hurting yourself on purpose.
+> - You have recently hurt yourself on purpose.
+> - You are thinking about harming someone else.
 > - You feel like you might do something dangerous.
 > - You cannot keep yourself safe or meet basic needs right now.
 > - You feel severely confused, unusually energized or out of control, or
