@@ -112,23 +112,35 @@ Ask this before the exercise:
 > - You have thoughts of hurting yourself on purpose.
 > - You have recently hurt yourself on purpose.
 > - You are thinking about harming someone else.
-> - You feel like you might do something dangerous.
-> - You cannot keep yourself safe or meet basic needs right now.
-> - You feel severely confused, unusually energized or out of control, or
->   unsure what is real.
-> - You want to work through trauma memories in detail.
-> - You keep having unwanted thoughts, images, or urges that repeatedly enter
->   your mind and affect your daily life.
-> - You feel you need to do repetitive behaviours or mental acts, such as
->   checking things several times or repeatedly asking for reassurance.
-> - Worries about your appearance or body are taking over your day.
-> - Eating, weight, purging, bingeing, or exercise feel out of control.
-> - You may be withdrawing from alcohol or drugs.
+> - You feel like you might do something unsafe that you cannot stop yourself
+>   from doing.
+> - You do not have a safe place to be right now.
+> - You cannot get through the next few hours without immediate help.
+> - You are so confused that it is hard to follow this conversation or know
+>   what to do next.
+> - You have much more energy than usual, feel restless, or have needed much
+>   less sleep.
+> - Your thoughts are racing, or you cannot concentrate.
+> - You are seeing or hearing things that other people do not.
+> - People close to you are saying that something you believe is not true.
+> - You want to go through or describe a traumatic memory in detail.
+> - Upsetting thoughts, images, or urges keep coming into your mind and are
+>   getting in the way of daily life.
+> - You feel driven to repeat things, such as checking several times, reviewing
+>   things in your mind, or repeatedly asking for reassurance.
+> - Worries about how you look or about your body are taking over your day.
+> - You are not eating enough, or you feel unable to eat enough.
+> - You are eating a very large amount at once and feel unable to stop.
+> - You are making yourself vomit, taking laxatives, or exercising to make up
+>   for eating.
+> - Worries about food, weight, or body shape feel hard to control.
+> - You have stopped or cut down alcohol or drugs and feel physically unwell
+>   or unsafe.
 > - You need help making a plan to stay alive or not hurt yourself.
-> - Someone is abusing, threatening, controlling, or coercing you, or you may
->   be in ongoing danger from another person.
-> - This feels like something that needs a professional or specialist, not a
->   self-help exercise.
+> - Someone is hurting, threatening, controlling, or forcing you, or you do not
+>   feel safe with them.
+> - This feels bigger than a self-help exercise, and you need a professional or
+>   specialist.
 
 This is a routing check, not a clinical risk assessment.
 
